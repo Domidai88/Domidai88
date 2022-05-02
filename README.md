@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Domidai88
 - 👀 I’m interested in ... Pyhton, Java & C#
 - 🌱 I’m currently learning  Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on  some  proyects.
 - 📫 How to reach me ...
 
 <!---
